@@ -1,2 +1,2 @@
 # Portfolio
-Personal portfolio website
+Personal portfolio website using streamlit and python.

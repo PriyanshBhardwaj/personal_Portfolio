@@ -1,2 +1,4 @@
-# os
+#this file is needed to download those modules in streamlit server which dont come with python installation.
+
+# os                os comes by default with python installation.
 pillow
